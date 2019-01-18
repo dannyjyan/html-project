@@ -1,0 +1,45 @@
+div {
+  height: 200px;
+  width: 50%;
+  border: 5px solid black;
+
+}
+
+#first-div {
+  background-color: #39cccc;
+  padding: 50px;
+  border: 5px solid black;
+  box-sizing: border-box;
+  
+}
+
+#second-div {
+  background-color: #ff4136;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+#grow-div{
+  height: 10px;
+  overflow: overlay;
+  background-color: yellowgreen
+}
+
+#image-1-container {
+  height: 600px;
+  width: 200px;
+  background-color: blueviolet;
+}
+#image-2-container{
+  width:200px;
+  overflow:auto;
+  background-color:darkred;
+}
+
+img{
+  width: 100%;
+}
+
+p {
+  background-color: #7fdbff;
+}
